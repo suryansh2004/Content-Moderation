@@ -101,6 +101,8 @@ For serious training, run this on Colab, Kaggle, or a cloud GPU and increase `--
 
 ## Export And Optimize ONNX
 
+Model artifacts are not committed to GitHub because the exported ONNX files are large. Recreate them locally with the command below.
+
 Export the pretrained classifier directly:
 
 ```bash
