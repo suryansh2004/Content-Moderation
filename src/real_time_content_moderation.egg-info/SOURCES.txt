@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/moderation_api/__init__.py
+src/moderation_api/config.py
+src/moderation_api/labels.py
+src/moderation_api/main.py
+src/moderation_api/model.py
+src/moderation_api/schemas.py
+src/real_time_content_moderation.egg-info/PKG-INFO
+src/real_time_content_moderation.egg-info/SOURCES.txt
+src/real_time_content_moderation.egg-info/dependency_links.txt
+src/real_time_content_moderation.egg-info/requires.txt
+src/real_time_content_moderation.egg-info/top_level.txt
+tests/test_api.py
